@@ -1,0 +1,29 @@
+{
+  "name": "homebridge-realflame",
+  "version": "1.0.0",
+  "description": "Homebridge plugin for the Real Flame WiFi Interface MKII (Millennium Electronics 'MODV' modulating valve heaters)",
+  "license": "MIT",
+  "author": "ssmcleod",
+  "homepage": "https://github.com/ssmcleod/homebridge-realflame#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssmcleod/homebridge-realflame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ssmcleod/homebridge-realflame/issues"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "realflame",
+    "heater",
+    "fireplace",
+    "thermostat"
+  ],
+  "engines": {
+    "node": "^18.15.0 || ^20.7.0 || ^22 || ^24",
+    "homebridge": "^1.6.0 || ^2.0.0"
+  },
+  "main": "index.js",
+  "dependencies": {}
+}
